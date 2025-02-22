@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 9024753850930730579}
   - component: {fileID: 5925851650474394551}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: Arrow
   m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -186,7 +186,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 5618032, guid: 08feec22993782742a73cc25b3a3bb99, type: 3}
-  m_Color: {r: 0.45545495, g: 1, b: 0.27843142, a: 1}
+  m_Color: {r: 0.27735847, g: 0.80833817, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
